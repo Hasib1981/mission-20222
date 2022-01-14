@@ -1,0 +1,131 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Unna', serif;
+    margin-top: 50px;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+        width:40%;
+        padding-left: 7%;
+        
+}
+.stay-focused{
+    line-height: 1cm;
+    margin-left: 0px;
+    border-left: 5px solid;
+    border-color: orangered;
+    padding-left: 15px;
+}
+p{
+    font-size: 30px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(green, red);
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+.half-width img{
+        width:80%;
+        padding-left: 50px;
+    }
+.blue-color{
+    color:blue;
+}
+.tomato-color{
+    color:tomato;
+}
+.my-mission-area{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.mission-vission-goals-item{
+    width: 40%;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 5px;
+    border-radius: 20px;
+    text-align: left;
+}
+.one-third-width img{
+    width: 50%;
+}
+#mission{
+  background-color:rgb(222, 243, 243)
+  
+}
+#vission{
+    background-color:rgb(247, 231, 232);
+}
+#goals{
+    background-color:rgb(247, 243, 214);
+}
+#develop-image-background{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 300px;
+    padding-left: 30px;
+}
+.develop{
+    line-height: 1cm;
+    margin-left: 0px;
+}
+#global-image-background{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:right bottom;
+    background-size: 200px;
+    padding-left: 30px;
+}
+.global-community{
+    line-height: 1cm;
+    margin-left: 0px;
+}
+
+#stay-safe-image-background{
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat:no-repeat;
+    background-position: top left;
+    background-size: 300px;
+    padding-left: 30px;
+}
+.stay-safe{
+    line-height: 1cm;
+    margin-left: 0px;
+}
+.orange{
+    color:orange;
+}
+
+
+.footer-section{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Unna', serif;
+    text-align: center;
+    line-height: 1cm;
+    background-color: black;
+    height: 200px;
+    padding-top: 10px;
+    color: white;
+    
+}
+.font{
+    color: rgb(240, 44, 44);
+
+}
